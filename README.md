@@ -7,8 +7,10 @@ It can be used both directly as source code or as a JAR/AAR library..
 
 *statemachinetest* is a small application demonstrating how to use the state machine framework, in particular which classes and methods must be extended/overridden.
 
-##Usage
-Thei project follows Android Studio's file structure.
+## Usage
+The project follows Android Studio's file structure.
 
 The whole project can be downloaded or git cloned and imported directly into Android Studio.
+
+It also includes a docs folder with the source code documentation generated using Javadocs.\
 
