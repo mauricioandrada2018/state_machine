@@ -12,5 +12,5 @@ The project follows Android Studio's file structure.
 
 The whole project can be downloaded or git cloned and imported directly into Android Studio.
 
-It also includes a docs folder with the source code documentation generated using Javadocs.\
+It also includes a docs folder with the source code documentation generated using Javadocs.
 
